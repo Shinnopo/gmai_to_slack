@@ -1,0 +1,7 @@
+# dependencies
+node_modules
+.clasp.json
+
+# misc
+.DS_Store
+*.pem
